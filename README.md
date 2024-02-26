@@ -16,4 +16,5 @@ Split the data into training, testing, and validation sets can be found at:
 /data/tam_og.py
 ```
 ### Training, Evaluating, and Exporting Models
-Jupyter notebook showing how to train, evaluate, and export models
+Jupyter notebook showing examples on how to train, evaluate, and export models:  
+`train_evaluation_example.ipynb`
