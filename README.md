@@ -7,4 +7,13 @@ This is a repository of the code used in Ho et al (2024, JGR in rev)
   3. Seismic data were obtained from here http://ds.iris.edu/mda/
 ### Installation
 Clone this Github repository:  
-'git clone'
+`git clone https://github.com/longmho/Ho_etal_2024.git`
+### Preprocess the data
+Split the data into training, testing, and validation sets can be found at:
+```
+/data/tam_mf.py  
+/data/tam_ml.py
+/data/tam_og.py
+```
+### Training, Evaluating, and Exporting Models
+Jupyter notebook showing how to train, evaluate, and export models
