@@ -9,7 +9,7 @@ This is a repository of the code used in Ho et al (2024, JGR in rev)
 Clone this Github repository:  
 `git clone https://github.com/longmho/Ho_etal_2024.git`
 ### Download the waveform data
-Waveform data for the three initial catalogs (MF, ML, IN) and their associated metadata can be downloaded at:
+The three catalogs used for transfer learning in this study were generated through the easyQuake software (https://github.com/jakewalter/easyQuake.git). Waveform data for the three catalogs (MF, ML, IN) and their associated metadata can be downloaded at:
 
 ### Preprocess the data
 Split the data into training, testing, and validation sets can be found at:
