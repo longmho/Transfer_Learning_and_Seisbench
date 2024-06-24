@@ -11,6 +11,7 @@ Clone this Github repository:
 ### Download the waveform data
 The three catalogs used for transfer learning in this study were generated through the easyQuake software (https://github.com/jakewalter/easyQuake.git). Waveform data for the three catalogs (MF, ML, IN) and their associated metadata can be downloaded at:
 
+Save the waveforms and their metadata to .seisbench/ folder located in your home directory.
 ### Preprocess the data
 Split the data into training, testing, and validation sets can be found at:
 ```
