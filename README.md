@@ -10,7 +10,7 @@ Clone this Github repository:
 `git clone https://github.com/longmho/Ho_etal_2024.git`
 ### Download the waveform data
 The three catalogs used for transfer learning in this study were generated through the easyQuake software (https://github.com/jakewalter/easyQuake.git). Waveform data for the three catalogs (MF, ML, IN) and their associated metadata can be downloaded at:
-https://figshare.com/articles/dataset/TAMNNET_Waveform_Data/26087416
+https://figshare.com/articles/dataset/TAMNNET_Waveform_Data/26087416  
 Save the waveforms and their metadata to .seisbench/ folder located in your home directory.
 ### Preprocess the data
 Split the data into training, testing, and validation sets can be found at:
