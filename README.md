@@ -9,8 +9,8 @@ This is a repository of the code used in Ho et al (2024, JGR in rev)
 Clone this Github repository:  
 `git clone https://github.com/longmho/Ho_etal_2024.git`
 ### Download the waveform data
-The three catalogs used for transfer learning in this study were generated through the easyQuake software (https://github.com/jakewalter/easyQuake.git). Waveform data for the three catalogs (MF, ML, IN) and their associated metadata can be downloaded at:
-doi:10.5281/zenodo.12544109 
+The three catalogs ((MF, ML, IN) used for transfer learning in this study were generated through the easyQuake software (https://github.com/jakewalter/easyQuake.git).  Those three catalogs, along with their waveform data and their associated metadata can be downloaded at:
+doi:10.5281/zenodo.12544109  
 Save the waveforms and their metadata to .seisbench/ folder located in your home directory.
 ### Preprocess the data
 Split the data into training, testing, and validation sets can be found at:
@@ -22,6 +22,7 @@ Split the data into training, testing, and validation sets can be found at:
 ### Training, Evaluating, and Exporting Models
 Jupyter notebook showing examples on how to load, train, evaluate, and export models:  
 `train_evaluation_example.ipynb`  
+All the fine-tuned models can be found in this [repository](10.5281/zenodo.12544109).
 ### Using the Trained Models
 Use [easyQuake](https://github.com/jakewalter/easyQuake/tree/master/easyQuake) to apply the models to continuous data. 
 ### Relocate the Seismic Events
