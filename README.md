@@ -26,4 +26,4 @@ All the fine-tuned models can be found in this [repository](10.5281/zenodo.12544
 ### Using the Trained Models
 Use [easyQuake](https://github.com/jakewalter/easyQuake/tree/master/easyQuake) to apply the models to continuous data. 
 ### Relocate the Seismic Events
-Relocate the seismic events using NonLinLoc. NonLinLoc software can be found at [NonLinLoc](https://github.com/alomax/NonLinLoc).
+Relocate the seismic events using NonLinLoc. NonLinLoc software can be found at [NonLinLoc](https://github.com/alomax/NonLinLoc). The relocated catalogs can be found [here](10.5281/zenodo.12544109).
