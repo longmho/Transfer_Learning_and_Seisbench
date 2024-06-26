@@ -20,5 +20,9 @@ Split the data into training, testing, and validation sets can be found at:
 /data/tam_og.py
 ```
 ### Training, Evaluating, and Exporting Models
-Jupyter notebook showing examples on how to train, evaluate, and export models:  
-`train_evaluation_example.ipynb`
+Jupyter notebook showing examples on how to load, train, evaluate, and export models:  
+`train_evaluation_example.ipynb`  
+### Using the Trained Models
+Use [easyQuake](https://github.com/jakewalter/easyQuake/tree/master/easyQuake) to apply the models to continuous data. 
+### Relocate the Seismic Events
+Relocate the seismic events using NonLinLoc. NonLinLoc software can be found at [NonLinLoc](https://github.com/alomax/NonLinLoc).
