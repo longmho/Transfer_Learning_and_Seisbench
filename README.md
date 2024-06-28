@@ -10,7 +10,7 @@ This is a repository of the code used in Ho et al (2024, JGR in rev)
 Clone this Github repository:  
 `git clone https://github.com/longmho/Ho_etal_2024.git`
 ### Download the waveform data
-The waveform data used in this study were obtained from the SAGE Data Management Center and have been made available on Zenodo (doi:10.5281/zenodo.12544109) as HDF5 files.  The three starting catalogs (MF, ML, and SL), which were used for transfer learning, are also available on the Zenodo site. These were generated with the easyQuake software package (https://github.com/jakewalter/easyQuake.git).  
+The waveform data used in this study were obtained from the SAGE Data Management Center and have been made available on Zenodo (doi:10.5281/zenodo.12544109) as HDF5 files.  The three starting catalogs (MF, ML, and SL), which were used for transfer learning, are also available on the Zenodo site. These were generated with the [easyQuake](https://github.com/jakewalter/easyQuake.git) software package.  
 Save the waveforms and their metadata to .seisbench/ folder located in your home directory.
 ### Preprocess the data
 Split the data into training, testing, and validation sets can be found at:
