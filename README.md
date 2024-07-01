@@ -21,8 +21,8 @@ Split the data into training, testing, and validation sets can be found at:
 ```
 ### Training, Evaluating, and Exporting Models
 The Jupyter Notebook `train_evaluation_example.ipynb` provides examples of how to load, train, evaluate, and export the fine-tuned models.   
-All of our generated fine-tuned models can be found in the Zenodo [repository](10.5281/zenodo.12544109).
+All of our generated fine-tuned models can be found in the Zenodo [repository](https://doi.org/10.5281/zenodo.12544109).
 ### Using the Trained Models
 Use [easyQuake](https://github.com/jakewalter/easyQuake/tree/master/easyQuake) to apply the fine-tuned models to the continuous waveform data. 
 ### Relocate the Seismic Events
-Seismic events were relocated using NonLinLoc, whose software can be found [here](https://github.com/alomax/NonLinLoc). Our relocated event catalogs can be found in the Zenodo [repository](10.5281/zenodo.12544109).
+Seismic events were relocated using NonLinLoc, whose software can be found [here](https://github.com/alomax/NonLinLoc). Our relocated event catalogs can be found in the Zenodo [repository](https://doi.org/10.5281/zenodo.12544109).
